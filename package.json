@@ -1,7 +1,7 @@
 {
   "name": "misfits-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A port of my TextWrangler theme, optimized for HTML, CSS, LESS, JS, PHP, Python.",
   "keywords": [
     "syntax",
